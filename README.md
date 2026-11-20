@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/capa-atlanta.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Bem-vindo à Atlanta RP
 
 Este é o livro de regras oficial da **Atlanta RP**. Ele vale para a cidade, para o nosso Discord e para qualquer espaço ligado ao servidor.
